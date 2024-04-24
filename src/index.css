@@ -16,3 +16,6 @@ body {
     background: linear-gradient(135deg, rgba(236, 200, 200, 0.7) 2%, rgba(0, 0, 0, 0.12) 12%, rgba(255, 255, 255, 0.02) 20%);
 }
 
+.radial-bg {
+    background: radial-gradient(circle at 50% 50%, rgba(104, 58, 183, 0.46) 0%, rgba(104, 58, 183, 0.46) 33%, rgba(238, 130, 238, 0) 100%);
+}

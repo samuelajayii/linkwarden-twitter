@@ -14,7 +14,7 @@ const NavBar = () => {
                     <a href='/'><li>Blog</li></a>
                 </ul>
                 
-                <button className='border-[#828282] border-[2px] rounded-full py-2 px-6 text-[18px] hidden lg:flex'>Login</button>
+                <button className='border-[#828282] border-[2px] rounded-full py-2 px-6 text-[18px] hidden lg:flex hover:border-white transition-all'>Login</button>
 
                 <i className='fa-solid fa-bars lg:hidden'></i>
             </div>
