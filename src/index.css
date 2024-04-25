@@ -28,5 +28,5 @@ body {
 
 .accordion-gradient {
     background: rgb(255, 255, 255);
-    background: linear-gradient(126deg, rgba(45, 0, 96, 0.14) 1%, rgb(0, 0, 0) 40%, rgba(0, 0, 0, 0.627) 100%);
+    background: linear-gradient(126deg, #2d006024 1%, #000000 40%, #000000a0 100%);
 }
